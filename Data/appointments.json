@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "doctor": "Dr.sharmila",
+        "date": "2026-09-15",
+        "time": "12:00",
+        "purpose": "checkup",
+        "notes": ""
+    },
+    {
+        "id": 2,
+        "doctor": "Dr.priya sharma",
+        "date": "2026-09-12",
+        "time": "10:00",
+        "purpose": "General checkup",
+        "notes": "Routine health checkup"
+    },
+    {
+        "id": 3,
+        "doctor": "Dr.Rohit",
+        "date": "2026-09-20",
+        "time": "02:30",
+        "purpose": "General checkup",
+        "notes": "Routine health checkup"
+    },
+    {
+        "id": 4,
+        "doctor": "Dr.Rohit",
+        "date": "2026-09-20",
+        "time": "02:30",
+        "purpose": "Dental checkup",
+        "notes": "Routine health checkup"
+    }
+]
