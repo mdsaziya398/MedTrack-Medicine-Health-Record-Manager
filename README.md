@@ -376,11 +376,7 @@ Repository:
 │   └── medicines.json
 │
 ├── 📁 Screenshots
-│   ├── dashboard.png
-│   ├── medicines.png
-│   ├── medicine_schedule.png
-│   ├── health_records.png
-│   └── appointments.png
+│   
 │
 ├── 📄 app.py
 ├── 📄 requirements.txt
